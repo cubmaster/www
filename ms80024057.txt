@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "tadmcclellan.com",
+  "Id": "618d89b6-c5a0-421f-a760-0393003f461b"
+}
